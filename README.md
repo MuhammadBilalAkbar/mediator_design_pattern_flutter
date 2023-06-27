@@ -106,6 +106,8 @@ independently.
 Communicating objects are called colleagues while the object that controls and coordinates the
 interaction is called *drums rolls* the mediator.
 
+![](mediator_design_pattern.png)
+
 Mediator replaces many-to-many (N:M) relationships with one-to-many (1:N) interactions between the
 mediator and its colleagues. In general, 1:N relationships are just easier to understand and
 maintain.
